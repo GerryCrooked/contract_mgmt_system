@@ -1,0 +1,7 @@
+/* CI-Anpassungen (z. B. Farben) */
+:root {
+    --primary-color: #0070f3;
+    --secondary-color: #005bb5;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+  }

@@ -1,0 +1,4 @@
+# Python-Abhängigkeiten
+django
+djangorestframework
+psycopg2-binary
